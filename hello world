@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include <stdio.h>    //包含stdio这个库
 int main()
 {
-  printf("hello world");
-  return 0;
+  printf("hello world");    //输出"hello world"这句话
+  return 0;    //返回值为0
 }
